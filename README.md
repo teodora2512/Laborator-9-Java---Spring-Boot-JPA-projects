@@ -1,4 +1,4 @@
-# Laborator 9 - Sistem Management Mașini
+# Sistem Management Mașini
 
 ## Problema
 Să se creeze un sistem de management al mașinilor care să permită operații CRUD (Create, Read, Update, Delete) pe o bază de date MySQL. Pentru fiecare mașină se memorează: numărul de înmatriculare, marca, anul fabricației, culoarea și numărul de kilometri.
@@ -28,7 +28,7 @@ Implementare folosind **Spring Data JPA** - abordarea modernă automatizată.
 
 ## Configurare
 1. Clonează repository-ul
-2. Setează MySQL cu utilizatorul `root` și parola `Scotti22`
+2. Setează MySQL cu utilizatorul `root` și parola ``
 3. Rulează cu `mvn spring-boot:run`
 
 ## Autor
